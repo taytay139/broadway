@@ -5,7 +5,6 @@ html {
 
 .header {
   background-image: url("file:///C:/cygwin64/home/socce/broadway/resources/images/the-flatiron-building.png");
-  background-repeat: no-repeat;
   background-size: cover;
 }
 
@@ -18,4 +17,18 @@ h1 {
 a {
   font-size: 18px;
   color: white;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
+
+p {
+  font-size: 14px;
 }
