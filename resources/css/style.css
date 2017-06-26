@@ -1,0 +1,21 @@
+html {
+  font-family: Helvetica;
+  text-align: center;
+}
+
+.header {
+  background-image: url("file:///C:/cygwin64/home/socce/broadway/resources/images/the-flatiron-building.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+a {
+  font-size: 18px;
+  color: white;
+}
