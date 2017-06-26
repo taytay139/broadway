@@ -14,7 +14,7 @@ h1 {
   color: white;
 }
 
-a {
+p.link {
   font-size: 18px;
   color: white;
 }
@@ -38,4 +38,19 @@ h4 {
   font-weight: bold;
   color: white;
   background-image: url("file:///C:/cygwin64/home/socce/broadway/resources/images/the-flatiron-building.png");
+}
+
+.footer {
+  text-align: left !important;
+  background-color: dimgray;
+}
+
+h6 {
+  font-size: 11px;
+  color: white;
+}
+
+.link {
+  font-size: 18px;
+  color: white;
 }
